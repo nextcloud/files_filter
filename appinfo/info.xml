@@ -13,6 +13,9 @@
 		<nextcloud min-version="12.0" max-version="12"/>
 	</dependencies>
 
+	<screenshot>
+		https://github.com/icewind1991/files_filter/raw/master/screenshots/menu.png
+	</screenshot>
 	<category>files</category>
 	<website>https://github.com/icewind1991/files_filter</website>
 	<bugs>https://github.com/icewind1991/files_filter/issues</bugs>
