@@ -25,6 +25,10 @@ var searchTemplate = '<?xml version="1.0"?>\
 				<d:literal>__mime__</d:literal>\
 			</d:like>\
 		</d:where>\
+		<d:limit>\
+			<d:nresults>__limit__</d:nresults>\
+			<sd:firstresult xmlns:sd="https://github.com/icewind1991/SearchDAV/ns">__offset__</sd:firstresult>\
+		</d:limit>\
 	</d:basicsearch>\
 </d:searchrequest>';
 
@@ -105,7 +109,7 @@ $(document).ready(function () {
 					// there is only root
 					this._setCurrentDir('/', false);
 
-					this._reloadCall = this.searchByMime('/files/' + OC.getCurrentUser().uid, this.mime);
+					this._reloadCall = this.searchByMime('/files/' + OC.getCurrentUser().uid, this.mime, 0, 0);
 					var callBack = this.reloadCallback.bind(this);
 					return this._reloadCall.then(callBack, callBack);
 				},
@@ -119,7 +123,7 @@ $(document).ready(function () {
 					return OCA.Files.FileList.prototype.reloadCallback.call(this, status, result);
 				},
 
-				searchByMime: function(path, mime) {
+				searchByMime: function(path, mime, limit, offset) {
 					var deferred = $.Deferred();
 					var promise = deferred.promise();
 
@@ -132,7 +136,9 @@ $(document).ready(function () {
 					var body = searchTemplate
 						.replace('__props__', props)
 						.replace('__mime__', mime)
-						.replace('__path__', path);
+						.replace('__path__', path)
+						.replace('__limit__', limit)
+						.replace('__offset__', offset);
 
 					davClient.request(
 						'SEARCH',
@@ -141,7 +147,13 @@ $(document).ready(function () {
 						body
 					).then(function (result) {
 						if (filesClient._isSuccessStatus(result.status)) {
+							var root = '/files/' + OC.getCurrentUser().uid;
 							var results = filesClient._parseResult(result.body);
+							results = results.map(function(result) {
+								result.path = result.path.substr(root.length);
+								return result;
+							});
+							console.log(results);
 							deferred.resolve(result.status, results);
 						} else {
 							deferred.reject(result.status);
