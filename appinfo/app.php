@@ -10,17 +10,19 @@ $eventDispatcher->addListener(
 	}
 );
 
+$l = \OC::$server->getL10N('files_filter');
+
 \OCA\Files\App::getNavigationManager()->add([
 	'id' => 'filter-image',
 	'appname' => 'files_filter',
 	'script' => 'list.php',
 	'order' => 15,
-	'name' => 'Images'
+	'name' => $l->t('Images')
 ]);
 \OCA\Files\App::getNavigationManager()->add([
 	'id' => 'filter-video',
 	'appname' => 'files_filter',
 	'script' => 'list.php',
 	'order' => 15,
-	'name' => 'Videos'
+	'name' => $l->t('Videos')
 ]);
