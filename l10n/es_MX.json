@@ -1,7 +1,7 @@
 { "translations": {
     "Images" : "Imágenes",
     "Videos" : "Videos",
-    "Filter" : "Filtro",
+    "Filter" : "Filtrar",
     "Files filter" : "Filtro de archivos"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

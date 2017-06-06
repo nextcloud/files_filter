@@ -1,6 +1,8 @@
 OC.L10N.register(
     "files_filter",
     {
+    "Images" : "Изображения",
+    "Videos" : "Видео",
     "Filter" : "Фильтр",
     "Files filter" : "Фильтр файлов"
 },

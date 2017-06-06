@@ -1,9 +1,9 @@
 OC.L10N.register(
     "files_filter",
     {
-    "Images" : "Imágenes",
+    "Images" : "Images",
     "Videos" : "Videos",
-    "Filter" : "Filtro",
-    "Files filter" : "Filtro de archivos"
+    "Filter" : "Filter",
+    "Files filter" : "Files filter"
 },
 "nplurals=2; plural=(n != 1);");

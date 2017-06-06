@@ -3,7 +3,7 @@ OC.L10N.register(
     {
     "Images" : "Imágenes",
     "Videos" : "Videos",
-    "Filter" : "Filtro",
+    "Filter" : "Filtrar",
     "Files filter" : "Filtro de archivos"
 },
 "nplurals=2; plural=(n != 1);");
