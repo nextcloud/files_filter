@@ -1,4 +1,6 @@
 { "translations": {
+    "Images" : "Görseller",
+    "Videos" : "Görüntüler",
     "Filter" : "Süzgeç",
     "Files filter" : "Dosya süzgeci"
 },"pluralForm" :"nplurals=2; plural=(n > 1);"

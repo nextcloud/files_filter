@@ -1,4 +1,6 @@
 { "translations": {
+    "Images" : "Imazhe ",
+    "Videos" : "Videot",
     "Filter" : "Filtro",
     "Files filter" : "Filter i skedarëve"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
