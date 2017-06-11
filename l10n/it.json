@@ -1,4 +1,6 @@
 { "translations": {
+    "Images" : "Immagini",
+    "Videos" : "Video",
     "Filter" : "Filtro",
     "Files filter" : "Filtro dei file"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
