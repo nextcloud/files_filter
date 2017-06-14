@@ -100,9 +100,8 @@ $(document).ready(function () {
 				},
 
 				reload: function () {
-					var tagName = OC.TAG_FAVORITE;
 					this.showMask();
-					if (this._reloadCall) {
+					if (this._reloadCall && _.isFunction(this._reloadCall.abort)) {
 						this._reloadCall.abort();
 					}
 
@@ -153,7 +152,6 @@ $(document).ready(function () {
 								result.path = result.path.substr(root.length);
 								return result;
 							});
-							console.log(results);
 							deferred.resolve(result.status, results);
 						} else {
 							deferred.reject(result.status);
