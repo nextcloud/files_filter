@@ -15,14 +15,14 @@ $l = \OC::$server->getL10N('files_filter');
 \OCA\Files\App::getNavigationManager()->add([
 	'id' => 'filter-image',
 	'appname' => 'files_filter',
-	'script' => 'list.php',
+	'script' => 'image_list.php',
 	'order' => 15,
 	'name' => $l->t('Images'),
 ]);
 \OCA\Files\App::getNavigationManager()->add([
 	'id' => 'filter-video',
 	'appname' => 'files_filter',
-	'script' => 'list.php',
+	'script' => 'video_list.php',
 	'order' => 15,
 	'name' => $l->t('Videos'),
 ]);

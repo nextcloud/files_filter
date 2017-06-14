@@ -23,7 +23,12 @@
 
 // TODO: move to handlebars
 
+$l = \OC::$server->getL10N('files_filter');
+
 // renders the controls and table headers template
-$tmpl = new OCP\Template('files', 'simplelist', '');
+$tmpl = new OCP\Template('files_filter', 'list', '');
+$tmpl->assign('empty_header', $l->t('No videos found'));
+$tmpl->assign('empty_text', $l->t('Any uploaded video will show up here'));
+$tmpl->assign('empty_icon', 'nav-icon-filter-video');
 $tmpl->printPage();
 
