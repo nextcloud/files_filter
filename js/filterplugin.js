@@ -46,8 +46,8 @@
 		detach: function () {
 			if (this.filterFileList) {
 				this.filterFileList.destroy();
-				OCA.Files.fileActions.off('setDefault.plugin-favorites', this._onActionsUpdated);
-				OCA.Files.fileActions.off('registerAction.plugin-favorites', this._onActionsUpdated);
+				OCA.Files.fileActions.off('setDefault.plugin-filter', this._onActionsUpdated);
+				OCA.Files.fileActions.off('registerAction.plugin-filter', this._onActionsUpdated);
 				$('#app-content .viewcontainer').off('.plugin-filter');
 				this.filterFileList = null;
 			}
