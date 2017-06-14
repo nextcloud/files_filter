@@ -73,6 +73,12 @@ $(document).ready(function () {
 					this.filesClient = new OC.Files.Client({
 						host: OC.getHost(),
 						port: OC.getPort(),
+						root: OC.linkToRemoteBase('webdav'),
+						useHTTPS: OC.getProtocol() === 'https'
+					});
+					this.searchClient = new OC.Files.Client({
+						host: OC.getHost(),
+						port: OC.getPort(),
 						root: OC.linkToRemoteBase('dav'),
 						useHTTPS: OC.getProtocol() === 'https'
 					});
@@ -127,8 +133,8 @@ $(document).ready(function () {
 					var deferred = $.Deferred();
 					var promise = deferred.promise();
 
-					var filesClient = this.filesClient;
-					var davClient = this.filesClient._client;
+					var searchClient = this.searchClient;
+					var davClient = this.searchClient._client;
 					var props = this._getWebdavProperties().map(function (prop) {
 						var property = davClient.parseClarkNotation(prop);
 						return '<' + davClient.xmlNamespaces[property.namespace] + ':' + property.name + ' />\n';
@@ -142,13 +148,13 @@ $(document).ready(function () {
 
 					davClient.request(
 						'SEARCH',
-						filesClient._buildUrl(),
+						searchClient._buildUrl(),
 						{'Content-Type': 'text/xml'},
 						body
 					).then(function (result) {
-						if (filesClient._isSuccessStatus(result.status)) {
+						if (searchClient._isSuccessStatus(result.status)) {
 							var root = '/files/' + OC.getCurrentUser().uid;
-							var results = filesClient._parseResult(result.body);
+							var results = searchClient._parseResult(result.body);
 							results = results.map(function(result) {
 								result.path = result.path.substr(root.length);
 								return result;
