@@ -3,7 +3,16 @@ OC.L10N.register(
     {
     "Images" : "Görseller",
     "Videos" : "Görüntüler",
+    "No images found" : "Herhangi bir görsel bulunamadı",
+    "Any uploaded image will show up here" : "Yüklenen görseller burada görüntülenir",
     "Filter" : "Süzgeç",
-    "Files filter" : "Dosya süzgeci"
+    "Files filter" : "Dosya süzgeci",
+    "No entries found in this folder" : "Bu klasörde herhangi bir kayıt yok",
+    "Name" : "Ad",
+    "Size" : "Boyut",
+    "Modified" : "Değiştirilme",
+    "Delete" : "Sil",
+    "No videos found" : "Herhangi bir görüntü bulunamadı",
+    "Any uploaded video will show up here" : "Yüklenen görüntüler burada görüntülenir"
 },
 "nplurals=2; plural=(n > 1);");

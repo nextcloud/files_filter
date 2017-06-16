@@ -2,6 +2,11 @@
     "Images" : "Afbeeldingen",
     "Videos" : "Videos",
     "Filter" : "Filter",
-    "Files filter" : "Bestandenfilter"
+    "Files filter" : "Bestandenfilter",
+    "Name" : "Naam",
+    "Size" : "Omvang",
+    "Modified" : "Gewijzigd",
+    "Delete" : "Verwijderen",
+    "No videos found" : "Geen video's gevonden"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

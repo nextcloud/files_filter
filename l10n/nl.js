@@ -4,6 +4,11 @@ OC.L10N.register(
     "Images" : "Afbeeldingen",
     "Videos" : "Videos",
     "Filter" : "Filter",
-    "Files filter" : "Bestandenfilter"
+    "Files filter" : "Bestandenfilter",
+    "Name" : "Naam",
+    "Size" : "Omvang",
+    "Modified" : "Gewijzigd",
+    "Delete" : "Verwijderen",
+    "No videos found" : "Geen video's gevonden"
 },
 "nplurals=2; plural=(n != 1);");
