@@ -3,6 +3,8 @@ OC.L10N.register(
     {
     "Images" : "Εικόνες",
     "Videos" : "Βίντεο",
+    "No images found" : "Δεν βρέθηκαν εικόνες",
+    "Any uploaded image will show up here" : "Κάθε εικόνα που ανεβάσατε θα εμφανιστεί εδώ",
     "Filter" : "Φίλτρο",
     "Files filter" : "Φιλτράρισμα αρχείων"
 },
