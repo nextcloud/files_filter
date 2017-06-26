@@ -3,7 +3,12 @@ OC.L10N.register(
     {
     "Images" : "Imazhe ",
     "Videos" : "Videot",
+    "No images found" : "Asnjë imazh nuk u gjet",
     "Filter" : "Filtro",
-    "Files filter" : "Filter i skedarëve"
+    "Files filter" : "Filter i skedarëve",
+    "Name" : "Emri",
+    "Size" : "Madhësia ",
+    "Modified" : "Modifikuar ",
+    "Delete" : "Fshij"
 },
 "nplurals=2; plural=(n != 1);");
