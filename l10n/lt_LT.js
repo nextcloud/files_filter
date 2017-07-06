@@ -5,6 +5,7 @@ OC.L10N.register(
     "Videos" : "Vaizdo įrašai",
     "No images found" : "Nerasta jokių paveikslų",
     "Size" : "Dydis",
-    "Delete" : "Ištrinti"
+    "Delete" : "Ištrinti",
+    "No videos found" : "Vaizdo įrašų nerasta"
 },
 "nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);");
