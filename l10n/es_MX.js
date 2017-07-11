@@ -4,7 +4,7 @@ OC.L10N.register(
     "Images" : "Imágenes",
     "Videos" : "Videos",
     "No images found" : "No se encontraron imágenes",
-    "Any uploaded image will show up here" : "Cualquier imagen que cargue se mostrará aquí",
+    "Any uploaded image will show up here" : "Cualquier imagen cargada se mostrará aquí",
     "Filter" : "Filtrar",
     "Files filter" : "Filtro de archivos",
     "No entries found in this folder" : "No se encontraron elementos en esta carpeta",

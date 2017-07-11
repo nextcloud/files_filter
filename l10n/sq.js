@@ -11,6 +11,7 @@ OC.L10N.register(
     "Name" : "Emri",
     "Size" : "Madhësia ",
     "Modified" : "Modifikuar ",
-    "Delete" : "Fshij"
+    "Delete" : "Fshij",
+    "No videos found" : "Asnjë video e gjetur "
 },
 "nplurals=2; plural=(n != 1);");
