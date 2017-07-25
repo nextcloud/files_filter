@@ -4,6 +4,7 @@ OC.L10N.register(
     "Images" : "Immagini",
     "Videos" : "Video",
     "No images found" : "Nessuna immagine trovata",
+    "Any uploaded image will show up here" : "Tutte le immagini caricate saranno mostrate qui",
     "Filter" : "Filtro",
     "Files filter" : "Filtro dei file",
     "No entries found in this folder" : "Nessuna voce trovata in questa cartella",
@@ -11,6 +12,7 @@ OC.L10N.register(
     "Size" : "Dimensione",
     "Modified" : "Modificato",
     "Delete" : "Elimina",
-    "No videos found" : "Nessun video trovato"
+    "No videos found" : "Nessun video trovato",
+    "Any uploaded video will show up here" : "Tutti i video caricati saranno mostrati qui"
 },
 "nplurals=2; plural=(n != 1);");
