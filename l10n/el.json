@@ -2,13 +2,15 @@
     "Images" : "Εικόνες",
     "Videos" : "Βίντεο",
     "No images found" : "Δεν βρέθηκαν εικόνες",
-    "Any uploaded image will show up here" : "Κάθε εικόνα που ανεβάσατε θα εμφανιστεί εδώ",
+    "Any uploaded image will show up here" : "Κάθε εικόνα που μεταφορτώσατε θα εμφανιστεί εδώ",
     "Filter" : "Φίλτρο",
     "Files filter" : "Φιλτράρισμα αρχείων",
+    "No entries found in this folder" : "Δεν βρέθηκαν καταχωρήσεις σε αυτόν τον φάκελο",
     "Name" : "Όνομα",
     "Size" : "Μέγεθος",
+    "Modified" : "Τροποποιήθηκε",
     "Delete" : "Διαγραφή",
     "No videos found" : "Δεν βρέθηκαν βίντεο",
-    "Any uploaded video will show up here" : "Κάθε βίντεο που ανεβαίνει θα εμφανίζεται εδώ"
+    "Any uploaded video will show up here" : "Κάθε βίντεο που μεταφορτώθηκε θα εμφανιστεί εδώ"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
