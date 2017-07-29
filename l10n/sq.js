@@ -12,6 +12,7 @@ OC.L10N.register(
     "Size" : "Madhësia ",
     "Modified" : "Modifikuar ",
     "Delete" : "Fshij",
-    "No videos found" : "Asnjë video e gjetur "
+    "No videos found" : "Asnjë video e gjetur ",
+    "Any uploaded video will show up here" : "Çdo video e ngarkuar do të shfaqet këtu"
 },
 "nplurals=2; plural=(n != 1);");
