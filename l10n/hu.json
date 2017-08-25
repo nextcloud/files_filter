@@ -1,0 +1,14 @@
+{ "translations": {
+    "Images" : "Képek",
+    "Videos" : "Videók",
+    "No images found" : "Nem találhatók képek",
+    "Filter" : "Szűrő",
+    "Files filter" : "Fájl szűrő",
+    "No entries found in this folder" : "Nincsenek bejegyzések ebben a mappában",
+    "Name" : "Név",
+    "Size" : "Méret",
+    "Modified" : "Módosítva",
+    "Delete" : "Törlés",
+    "No videos found" : "Nem találhatók videók"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}
