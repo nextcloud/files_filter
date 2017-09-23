@@ -4,11 +4,15 @@ OC.L10N.register(
     "Images" : "Kuvat",
     "Videos" : "Videot",
     "No images found" : "Kuvia ei löytynyt",
+    "Any uploaded image will show up here" : "Mikä tahansa lähetetty kuva ilmestyy tähän",
     "Filter" : "Suodata",
     "Files filter" : "Tiedoston suodatin",
+    "No entries found in this folder" : "Tästä kansiosta ei löytynyt tietueita",
     "Name" : "Nimi",
     "Size" : "Koko",
+    "Modified" : "Muokattu",
     "Delete" : "Poista",
-    "No videos found" : "Videoita ei löytynyt"
+    "No videos found" : "Videoita ei löytynyt",
+    "Any uploaded video will show up here" : "Mikä tahansa lähetetty video ilmestyy tähän"
 },
 "nplurals=2; plural=(n != 1);");
