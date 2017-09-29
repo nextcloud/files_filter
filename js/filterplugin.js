@@ -20,6 +20,8 @@
 
 		filterFileList: {},
 
+		activeMime: null,
+
 		attach: function () {
 			var self = this;
 			var $viewConteainers = $('#app-content .viewcontainer');
@@ -54,6 +56,7 @@
 		},
 
 		showFileList: function ($el, mime) {
+			this.activeMime = mime;
 			if (!this.filterFileList[mime]) {
 				this.filterFileList[mime] = this._createFilterFileList($el, mime);
 			}
@@ -72,7 +75,7 @@
 		 *
 		 * @param $el container for the file list
 		 * @param mime mimetype to filter on
-		 * @return {OCA.Files.FavoritesFileList} file list
+		 * @return {OCA.Files_Filter.FilterFileList} file list
 		 */
 		_createFilterFileList: function ($el, mime) {
 			var fileActions = this._createFileActions();
@@ -114,9 +117,9 @@
 
 		_onActionsUpdated: function (ev) {
 			if (ev.action) {
-				this.filterFileList.fileActions.registerAction(ev.action);
+				this.filterFileList[this.activeMime].fileActions.registerAction(ev.action);
 			} else if (ev.defaultAction) {
-				this.filterFileList.fileActions.setDefault(
+				this.filterFileList[this.activeMime].fileActions.setDefault(
 					ev.defaultAction.mime,
 					ev.defaultAction.name
 				);
