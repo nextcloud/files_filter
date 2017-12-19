@@ -7,7 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "Здесь появятся все выгруженные изображения",
     "Filter" : "Фильтр",
     "Files filter" : "Фильтр файлов",
-    "No entries found in this folder" : "В этом каталоге ничего не найдено",
+    "No entries found in this folder" : "В этой папке ничего нет",
     "Name" : "Название",
     "Size" : "Размер",
     "Modified" : "Изменён",
