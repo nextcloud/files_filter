@@ -30,5 +30,6 @@ $tmpl = new OCP\Template('files_filter', 'list', '');
 $tmpl->assign('empty_header', $l->t('No images found'));
 $tmpl->assign('empty_text', $l->t('Any uploaded image will show up here'));
 $tmpl->assign('empty_icon', 'nav-icon-filter-image');
+$tmpl->assign('title', $l->t('Images'));
 $tmpl->printPage();
 

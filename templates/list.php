@@ -7,6 +7,7 @@
 </div>
 
 <input type="hidden" name="dir" value="" id="dir">
+<input type="hidden" name="filter-title" value="<?php p($_['title']); ?>" class="filter-title">
 
 <div class="nofilterresults hidden">
 	<div class="icon-search"></div>

@@ -30,5 +30,6 @@ $tmpl = new OCP\Template('files_filter', 'list', '');
 $tmpl->assign('empty_header', $l->t('No videos found'));
 $tmpl->assign('empty_text', $l->t('Any uploaded video will show up here'));
 $tmpl->assign('empty_icon', 'nav-icon-filter-video');
+$tmpl->assign('title', $l->t('Videos'));
 $tmpl->printPage();
 
