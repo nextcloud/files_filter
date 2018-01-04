@@ -82,6 +82,9 @@ $(document).ready(function () {
 						root: OC.linkToRemoteBase('dav'),
 						useHTTPS: OC.getProtocol() === 'https'
 					});
+
+					// set title of page accordingly to the value in the hidden input field
+					this.appName = this.$el.find('.filter-title').first().val();
 				},
 
 				updateEmptyContent: function () {
