@@ -1,0 +1,18 @@
+OC.L10N.register(
+    "files_filter",
+    {
+    "Images" : "사진",
+    "Videos" : "동영상",
+    "No images found" : "사진을 찾을 수 없음",
+    "Any uploaded image will show up here" : "업로드한 사진이 여기에 표시됩니다",
+    "Filter" : "필터",
+    "Files filter" : "파일 필터",
+    "No entries found in this folder" : "이 폴더에서 항목을 찾을 수 없음",
+    "Name" : "이름",
+    "Size" : "크기",
+    "Modified" : "수정한 날짜",
+    "Delete" : "삭제",
+    "No videos found" : "동영상을 찾을 수 없음",
+    "Any uploaded video will show up here" : "업로드한 동영상이 여기에 표시됩니다"
+},
+"nplurals=1; plural=0;");
