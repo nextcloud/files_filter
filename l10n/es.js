@@ -2,8 +2,8 @@ OC.L10N.register(
     "files_filter",
     {
     "Images" : "Imágenes",
-    "Videos" : "Videos",
-    "No images found" : "No se encontraron imágenes",
+    "Videos" : "Vídeos",
+    "No images found" : "No se han encontrado imágenes",
     "Any uploaded image will show up here" : "Cualquier imagen subida aparecerá aquí",
     "Filter" : "Filtro",
     "Files filter" : "Filtro de archivos",
