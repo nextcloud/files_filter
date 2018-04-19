@@ -10,7 +10,7 @@
 	<version>0.1.0</version>
 
 	<dependencies>
-		<nextcloud min-version="12" max-version="13"/>
+		<nextcloud min-version="12" max-version="14"/>
 	</dependencies>
 
 	<screenshot>
