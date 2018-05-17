@@ -12,5 +12,5 @@
     "Delete" : "Zmazať",
     "No videos found" : "Nenašli sa žiadne videá",
     "Any uploaded video will show up here" : "Všetky nahraté obrázky sa zobrazia tu"
-},"pluralForm" :"nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;"
+},"pluralForm" :"nplurals=4; plural=(n % 1 == 0 ? 4: n==1 ? 1: n % 1 == 0 && n>=2 && n<=4 ? 3);"
 }
