@@ -15,4 +15,4 @@ OC.L10N.register(
     "No videos found" : "ვიდეოები ვერ იქნა ნაპოვნი",
     "Any uploaded video will show up here" : "აქ გამოჩნდება ნებისმიერი ატვირთული ვიდეო"
 },
-"nplurals=2; plural=(n==1);");
+"nplurals=2; plural=(n!=1);");
