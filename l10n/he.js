@@ -7,6 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "כל התמונות שהועלו תופענה כאן",
     "Filter" : "מסנן",
     "Files filter" : "מסנן קבצים",
+    "Adds type filtered file views to the sidebar" : "הוספת תצוגות קבצים עם סינון סוגים לסרגל הצד",
     "No entries found in this folder" : "לא נמצאו רשומות בתיקייה הזאת",
     "Name" : "שם",
     "Size" : "גודל",
