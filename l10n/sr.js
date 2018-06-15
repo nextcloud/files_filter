@@ -7,6 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "Све отпремљене слике ће бити приказане овде",
     "Filter" : "Филтер",
     "Files filter" : "Филтери над фајловима",
+    "Adds type filtered file views to the sidebar" : "Додаје филтер за типове фајлове у бочну траку",
     "No entries found in this folder" : "Нема ничега у овој фасцикли",
     "Name" : "Назив",
     "Size" : "Величина",
