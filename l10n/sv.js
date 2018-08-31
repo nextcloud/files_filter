@@ -7,6 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "Uppladdade bilder dyker upp här",
     "Filter" : "Filter",
     "Files filter" : "Filfilter",
+    "Adds type filtered file views to the sidebar" : "Lägger till typen av filtrerade filvyer i sidofältet",
     "No entries found in this folder" : "Ingenting hittades i denna mapp",
     "Name" : "Namn",
     "Size" : "Storlek",
