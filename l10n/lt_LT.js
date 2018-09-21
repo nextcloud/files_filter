@@ -7,6 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "Įkelti paveikslėliai matomi čia",
     "Filter" : "Filtras",
     "Files filter" : "Duomenų filtras",
+    "Adds type filtered file views to the sidebar" : "Prie šoninės juostos prideda pagal tipą filtruotų failų rodinius",
     "No entries found in this folder" : "Nerasta jokių duomenų šiame aplanke",
     "Name" : "Vardas",
     "Size" : "Dydis",
