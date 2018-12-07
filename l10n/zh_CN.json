@@ -5,6 +5,7 @@
     "Any uploaded image will show up here" : "已上传的图片会显示在这里",
     "Filter" : "筛选",
     "Files filter" : "文件筛选器",
+    "Adds type filtered file views to the sidebar" : "在侧边栏按类型筛选文件视图",
     "No entries found in this folder" : "此文件夹中未发现任何项目",
     "Name" : "文件名",
     "Size" : "大小",
