@@ -7,6 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "Igotako edozein irudi hemen ikusiko da",
     "Filter" : "Iragazkiak",
     "Files filter" : "Iragazkiak fitxategiak",
+    "Adds type filtered file views to the sidebar" : "Gehitu motaz iragazitako fitxategiak albo-barrara",
     "No entries found in this folder" : "Ez da sarrerarik aurkitu karpeta honetan ",
     "Name" : "Izena",
     "Size" : "Tamaina",
