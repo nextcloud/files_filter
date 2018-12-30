@@ -3,7 +3,7 @@ OC.L10N.register(
     {
     "Images" : "Изображения",
     "Videos" : "Видеа",
-    "No images found" : "Няма открити изображения",
+    "No images found" : "Не са открити изображения",
     "Any uploaded image will show up here" : "Всяко качено изображение ще се появява тук.",
     "Filter" : "Филтър",
     "No entries found in this folder" : "Няма намерени записи в тази директория",
