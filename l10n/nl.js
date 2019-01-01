@@ -7,7 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "Ieder toegevoegd plaatje wordt hier getoond",
     "Filter" : "Filter",
     "Files filter" : "Bestandenfilter",
-    "Adds type filtered file views to the sidebar" : "Voegt type-gefilterde bestandvoorbeelden toe aan de zijbalk",
+    "Adds type filtered file views to the sidebar" : "Voegt type-gefilterde bestandsweergaven toe aan de zijbalk",
     "No entries found in this folder" : "Niets gevonden in deze map",
     "Name" : "Naam",
     "Size" : "Omvang",
