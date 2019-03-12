@@ -7,6 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "Alle uploadede billeder vil blive vist her",
     "Filter" : "Filter",
     "Files filter" : "Fil filter",
+    "Adds type filtered file views to the sidebar" : "Tilføjer den filtrerede filtype til sidebjælken",
     "No entries found in this folder" : "Intet fundet i denne mappe",
     "Name" : "Navn",
     "Size" : "Størrelse",
