@@ -7,11 +7,12 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "Qualsevol imatge carregada apareixerà aquí",
     "Filter" : "Filtre",
     "Files filter" : "Filtre de fitxers",
+    "Adds type filtered file views to the sidebar" : "Afegeix les visualitzacions de fitxers de tipus filtrats a la barra lateral",
     "No entries found in this folder" : "No s'han trobat entrades en aquesta carpeta",
     "Name" : "Nom",
     "Size" : "Mida",
     "Modified" : "Modificat",
-    "Delete" : "Esborrat",
+    "Delete" : "Suprimeix",
     "No videos found" : "No s'han trobat vídeos",
     "Any uploaded video will show up here" : "Qualsevol video carregat apareixerà aquí"
 },
