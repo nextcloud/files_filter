@@ -7,6 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "업로드한 사진이 여기에 표시됩니다",
     "Filter" : "필터",
     "Files filter" : "파일 필터",
+    "Adds type filtered file views to the sidebar" : "사이드바에 형식별 필터 파일 보기 추가",
     "No entries found in this folder" : "이 폴더에서 항목을 찾을 수 없음",
     "Name" : "이름",
     "Size" : "크기",
