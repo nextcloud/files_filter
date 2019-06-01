@@ -7,6 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "Všetky nahraté obrázky sa zobrazia tu",
     "Filter" : "Filter",
     "Files filter" : "Filter súborov",
+    "Adds type filtered file views to the sidebar" : "Pridá zobrazenie filtrovaného súboru do bočného panela",
     "No entries found in this folder" : "V tomto priečinku nebolo nič nájdené",
     "Name" : "Názov",
     "Size" : "Veľkosť",
