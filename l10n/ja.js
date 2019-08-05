@@ -7,7 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "アップロードされた画像がここに表示されます",
     "Filter" : "フィルター",
     "Files filter" : "ファイルフィルター",
-    "Adds type filtered file views to the sidebar" : "サイドバーにタイプフィルターされたファイルビューを追加します",
+    "Adds type filtered file views to the sidebar" : "サイドバーに分類別のファイルビューを追加します",
     "No entries found in this folder" : "このフォルダーにはエントリーがありません",
     "Name" : "名前",
     "Size" : "サイズ",
