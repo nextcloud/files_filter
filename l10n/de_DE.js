@@ -4,7 +4,7 @@ OC.L10N.register(
     "Images" : "Bilder",
     "Videos" : "Videos",
     "No images found" : "Keine Bilder gefunden",
-    "Any uploaded image will show up here" : "Von Ihnen hochgeladene Bilder werden hier erscheinen",
+    "Any uploaded image will show up here" : "Von Ihnen hochgeladene Bilder werden hier angezeigt",
     "Filter" : "Filter",
     "Files filter" : "Dateifilter",
     "Adds type filtered file views to the sidebar" : "Fügt der Seitenleiste typengefilterte Dateiansichten hinzu",
@@ -14,6 +14,6 @@ OC.L10N.register(
     "Modified" : "Geändert",
     "Delete" : "Löschen",
     "No videos found" : "Keine Videos gefunden",
-    "Any uploaded video will show up here" : "Von Ihnen hochgeladene Videos werden hier erscheinen"
+    "Any uploaded video will show up here" : "Von Ihnen hochgeladene Videos werden hier angezeigt"
 },
 "nplurals=2; plural=(n != 1);");
