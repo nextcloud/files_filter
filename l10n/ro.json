@@ -1,0 +1,16 @@
+{ "translations": {
+    "Images" : "Imagini",
+    "Videos" : "Fișiere video",
+    "No images found" : "Nu au fost găsite imagini",
+    "Any uploaded image will show up here" : "Orice fișier foto va apărea aici",
+    "Filter" : "Filtru",
+    "Files filter" : "Filtru fișiere",
+    "No entries found in this folder" : "Niciun element găsit în acest director",
+    "Name" : "Nume",
+    "Size" : "Mărime",
+    "Modified" : "Modificat",
+    "Delete" : "Șterge",
+    "No videos found" : "Nu au fost găsite fișiere video",
+    "Any uploaded video will show up here" : "Orice fișier video încărcat va apărea aici"
+},"pluralForm" :"nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));"
+}
