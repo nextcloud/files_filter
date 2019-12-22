@@ -1,0 +1,8 @@
+{ "translations": {
+    "No entries found in this folder" : "Bu qovluqda heç bir verilən tapılmadı",
+    "Name" : "Ad",
+    "Size" : "Həcm",
+    "Modified" : "Dəyişdirildi",
+    "Delete" : "Sil"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

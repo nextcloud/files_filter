@@ -1,0 +1,7 @@
+{ "translations": {
+    "Name" : "பெயர்",
+    "Size" : "அளவு",
+    "Modified" : "மாற்றப்பட்டது",
+    "Delete" : "நீக்குக"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

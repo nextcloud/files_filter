@@ -1,0 +1,7 @@
+{ "translations": {
+    "Name" : "Անուն",
+    "Size" : "Չափս",
+    "Modified" : "Փոփոխված",
+    "Delete" : "հեռացնել"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

@@ -1,0 +1,7 @@
+{ "translations": {
+    "Name" : "নাম",
+    "Size" : "আকার",
+    "Modified" : "পরিবর্তিত",
+    "Delete" : "মুছে"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

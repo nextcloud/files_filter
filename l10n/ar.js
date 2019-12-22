@@ -5,8 +5,10 @@ OC.L10N.register(
     "Videos" : "فيديوهات",
     "No images found" : "لم يتم ايجاد اي صورة ",
     "Filter" : "فلتر",
+    "No entries found in this folder" : "لا يوجد مدخلات في هذا المجلد ",
     "Name" : "الأسم",
     "Size" : "الحجم",
+    "Modified" : "آخر تعديل",
     "Delete" : "حذف",
     "No videos found" : "لم يتم إيجاد اي فيديو"
 },

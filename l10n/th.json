@@ -1,0 +1,9 @@
+{ "translations": {
+    "Images" : "รูปภาพ",
+    "No entries found in this folder" : "ไม่พบรายการในโฟลเดอร์นี้",
+    "Name" : "ชื่อ",
+    "Size" : "ขนาด",
+    "Modified" : "แก้ไขเมื่อ",
+    "Delete" : "ลบ"
+},"pluralForm" :"nplurals=1; plural=0;"
+}

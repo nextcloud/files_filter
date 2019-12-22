@@ -1,0 +1,9 @@
+{ "translations": {
+    "Images" : "Bilete",
+    "Videos" : "Video",
+    "Name" : "Namn",
+    "Size" : "Storleik",
+    "Modified" : "Endra",
+    "Delete" : "Ta bort"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}
