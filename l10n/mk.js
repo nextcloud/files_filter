@@ -1,6 +1,7 @@
 OC.L10N.register(
     "files_filter",
     {
+    "Images" : "Слики",
     "Videos" : "Видеа",
     "No entries found in this folder" : "Нема ништо во оваа папка",
     "Name" : "Име",
