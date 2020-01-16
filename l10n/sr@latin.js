@@ -1,6 +1,7 @@
 OC.L10N.register(
     "files_filter",
     {
+    "Videos" : "Video",
     "Name" : "naziv",
     "Delete" : "Delete"
 },
