@@ -8,7 +8,7 @@ OC.L10N.register(
     "Filter" : "筛选",
     "Files filter" : "文件筛选器",
     "Adds type filtered file views to the sidebar" : "在侧边栏按类型筛选文件视图",
-    "No entries found in this folder" : "此文件夹中未发现任何项目",
+    "No entries found in this folder" : "在此文件夹中找不到项目",
     "Name" : "文件名",
     "Size" : "大小",
     "Modified" : "编辑日期",
