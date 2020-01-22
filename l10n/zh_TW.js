@@ -7,6 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "已上傳的圖片會顯示在這裡",
     "Filter" : "過濾",
     "Files filter" : "檔案過濾",
+    "Adds type filtered file views to the sidebar" : "將類型過濾的文件視圖添加到側邊欄",
     "No entries found in this folder" : "在此資料夾中沒有任何項目",
     "Name" : "名稱",
     "Size" : "大小",
