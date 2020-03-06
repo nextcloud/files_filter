@@ -1,5 +1,6 @@
 { "translations": {
     "Name" : "Nom",
+    "Size" : "Talha",
     "Delete" : "Suprimir"
 },"pluralForm" :"nplurals=2; plural=(n > 1);"
 }
