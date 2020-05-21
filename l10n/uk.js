@@ -12,7 +12,7 @@ OC.L10N.register(
     "Name" : "Ім'я",
     "Size" : "Розмір",
     "Modified" : "Змінено",
-    "Delete" : "Видалити",
+    "Delete" : "Вилучити",
     "No videos found" : "Жодного відео не знайдено",
     "Any uploaded video will show up here" : "Завантажені відео з'являться тут"
 },
