@@ -2,6 +2,7 @@ OC.L10N.register(
     "files_filter",
     {
     "Videos" : "Videoioù",
+    "No entries found in this folder" : "Disoc'h ebet en teuliad-mañ",
     "Name" : "Anv",
     "Size" : "Ment",
     "Modified" : "Cheñchet",
