@@ -1,5 +1,8 @@
 { "translations": {
+    "No images found" : "පින්තූර කිසිවක් හමු නොවීය",
     "Filter" : "පෙරහන",
-    "Name" : "නම"
+    "Files filter" : "ගොනු පෙරහන",
+    "Name" : "නම",
+    "Size" : "ප්‍රමාණය"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

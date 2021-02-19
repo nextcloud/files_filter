@@ -1,7 +1,10 @@
 OC.L10N.register(
     "files_filter",
     {
+    "No images found" : "පින්තූර කිසිවක් හමු නොවීය",
     "Filter" : "පෙරහන",
-    "Name" : "නම"
+    "Files filter" : "ගොනු පෙරහන",
+    "Name" : "නම",
+    "Size" : "ප්‍රමාණය"
 },
 "nplurals=2; plural=(n != 1);");
