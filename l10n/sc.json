@@ -1,4 +1,7 @@
 { "translations": {
+    "Name" : "Nùmene",
+    "Size" : "Mannària",
+    "Modified" : "Modificadu",
     "Delete" : "Cantzella"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
