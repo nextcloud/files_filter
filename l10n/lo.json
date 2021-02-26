@@ -1,4 +1,7 @@
 { "translations": {
+    "Name" : "ຊື່",
+    "Size" : "ຂະຫນາດ",
+    "Modified" : "\"{name}\" ແມ່ນຊື່ໄຟລ໌ທີ່ບໍ່ຖືກຕ້ອງ.",
     "Delete" : "ລຶບ"
 },"pluralForm" :"nplurals=1; plural=0;"
 }
