@@ -7,6 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "Orice fișier foto va apărea aici",
     "Filter" : "Filtru",
     "Files filter" : "Filtru fișiere",
+    "Adds type filtered file views to the sidebar" : "Adaugă fișiere filtrate după tip în bara laterală",
     "No entries found in this folder" : "Niciun element găsit în acest director",
     "Name" : "Nume",
     "Size" : "Mărime",
