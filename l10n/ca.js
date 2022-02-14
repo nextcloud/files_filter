@@ -3,17 +3,17 @@ OC.L10N.register(
     {
     "Images" : "Imatges",
     "Videos" : "Vídeos",
-    "No images found" : "No s'han trobat imatges",
-    "Any uploaded image will show up here" : "Qualsevol imatge carregada apareixerà aquí",
+    "No images found" : "No s'ha trobat cap imatge",
+    "Any uploaded image will show up here" : "Les imatges que pugeu apareixeran aquí",
     "Filter" : "Filtre",
     "Files filter" : "Filtre de fitxers",
-    "Adds type filtered file views to the sidebar" : "Afegeix les visualitzacions de fitxers de tipus filtrats a la barra lateral",
+    "Adds type filtered file views to the sidebar" : "Afegeix visualitzacions de fitxers filtrats per tipus a la barra lateral",
     "No entries found in this folder" : "No s'han trobat entrades en aquesta carpeta",
     "Name" : "Nom",
     "Size" : "Mida",
-    "Modified" : "Modificat",
+    "Modified" : "Darrera modificació",
     "Delete" : "Suprimeix",
-    "No videos found" : "No s'han trobat vídeos",
-    "Any uploaded video will show up here" : "Qualsevol video carregat apareixerà aquí"
+    "No videos found" : "No s'ha trobat cap vídeo",
+    "Any uploaded video will show up here" : "Els vídeos que pugeu apareixeran aquí"
 },
 "nplurals=2; plural=(n != 1);");
