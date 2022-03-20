@@ -7,7 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "Κάθε εικόνα που μεταφορτώσατε θα εμφανιστεί εδώ",
     "Filter" : "Φίλτρο",
     "Files filter" : "Φιλτράρισμα αρχείων",
-    "Adds type filtered file views to the sidebar" : "Προσθήκη φίλτρου εμφάνισης ασρχείου ανα τύπου στην πλευρική θέση",
+    "Adds type filtered file views to the sidebar" : "Προσθήκη φίλτρου εμφάνισης αρχείου ανά τύπο στην πλευρική στήλη",
     "No entries found in this folder" : "Δεν βρέθηκαν καταχωρήσεις σε αυτόν τον φάκελο",
     "Name" : "Όνομα",
     "Size" : "Μέγεθος",
