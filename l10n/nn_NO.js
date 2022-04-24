@@ -3,6 +3,7 @@ OC.L10N.register(
     {
     "Images" : "Bilete",
     "Videos" : "Video",
+    "Filter" : "Filter",
     "Name" : "Namn",
     "Size" : "Storleik",
     "Modified" : "Endra",

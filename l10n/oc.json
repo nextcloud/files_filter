@@ -1,6 +1,8 @@
 { "translations": {
+    "Images" : "Imatges",
     "Name" : "Nom",
     "Size" : "Talha",
+    "Modified" : "Modificat",
     "Delete" : "Suprimir"
 },"pluralForm" :"nplurals=2; plural=(n > 1);"
 }

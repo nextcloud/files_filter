@@ -1,8 +1,8 @@
 OC.L10N.register(
     "files_filter",
     {
-    "Videos" : "Tividyutin",
-    "Name" : "Nom",
-    "Delete" : "Kkes"
+    "Videos" : "Wideo",
+    "Name" : "Ady",
+    "Delete" : "Pozmak"
 },
 "nplurals=2; plural=(n != 1);");

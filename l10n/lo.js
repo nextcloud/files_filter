@@ -1,6 +1,7 @@
 OC.L10N.register(
     "files_filter",
     {
+    "Videos" : "ວິດີໂອ",
     "Name" : "ຊື່",
     "Size" : "ຂະຫນາດ",
     "Modified" : "\"{name}\" ແມ່ນຊື່ໄຟລ໌ທີ່ບໍ່ຖືກຕ້ອງ.",
