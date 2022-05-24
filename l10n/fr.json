@@ -13,5 +13,5 @@
     "Delete" : "Supprimer",
     "No videos found" : "Aucune vidéo trouvée",
     "Any uploaded video will show up here" : "Les vidéos téléversées se retrouveront ici"
-},"pluralForm" :"nplurals=2; plural=(n > 1);"
+},"pluralForm" :"nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;"
 }

@@ -16,4 +16,4 @@ OC.L10N.register(
     "No videos found" : "No se han encontrado vídeos",
     "Any uploaded video will show up here" : "Cualquier vídeo subido aparecerá aquí"
 },
-"nplurals=2; plural=(n != 1);");
+"nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;");
