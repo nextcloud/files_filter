@@ -2,7 +2,7 @@
     "Images" : "Bilder",
     "Videos" : "Videos",
     "No images found" : "Keine Bilder gefunden",
-    "Any uploaded image will show up here" : "Von Dir hochgeladene Bilder werden hier angezeigt",
+    "Any uploaded image will show up here" : "Von dir hochgeladene Bilder werden hier angezeigt",
     "Filter" : "Filter",
     "Files filter" : "Dateifilter",
     "Adds type filtered file views to the sidebar" : "Fügt der Seitenleiste typengefilterte Dateiansichten hinzu",
@@ -12,6 +12,6 @@
     "Modified" : "Geändert",
     "Delete" : "Löschen",
     "No videos found" : "Keine Videos gefunden",
-    "Any uploaded video will show up here" : "Von Dir hochgeladene Videos werden hier angezeigt"
+    "Any uploaded video will show up here" : "Von dir hochgeladene Videos werden hier angezeigt"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
