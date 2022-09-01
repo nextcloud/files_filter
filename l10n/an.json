@@ -1,0 +1,7 @@
+{ "translations": {
+    "Name" : "Nombre",
+    "Size" : "Grandario",
+    "Modified" : "Modificau",
+    "Delete" : "Borrar"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}
