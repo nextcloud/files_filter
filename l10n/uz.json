@@ -1,8 +1,9 @@
 { "translations": {
-    "Images" : "Tasvirlar",
-    "Videos" : "Videolar",
-    "Name" : "Ism...",
-    "Size" : "Hajmi",
-    "Delete" : "O'chir"
+    "Images" : "Images",
+    "Videos" : "Videos",
+    "Name" : "Name",
+    "Size" : "Size",
+    "Modified" : "Modified",
+    "Delete" : "Delete"
 },"pluralForm" :"nplurals=1; plural=0;"
 }
