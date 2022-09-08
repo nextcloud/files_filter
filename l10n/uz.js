@@ -3,6 +3,7 @@ OC.L10N.register(
     {
     "Images" : "Images",
     "Videos" : "Videos",
+    "No entries found in this folder" : "Ushbu papkada hech qanday yozuv topilmadi",
     "Name" : "Name",
     "Size" : "Size",
     "Modified" : "Modified",
