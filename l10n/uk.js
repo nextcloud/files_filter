@@ -8,7 +8,7 @@ OC.L10N.register(
     "Filter" : "Фільтр",
     "Files filter" : "Файловий фільтр",
     "Adds type filtered file views to the sidebar" : "Додає типи перегляду фільтрованих файлів до бічної панелі",
-    "No entries found in this folder" : "В цій теці нічого немає",
+    "No entries found in this folder" : "У цьому каталозі нічого немає",
     "Name" : "Ім'я",
     "Size" : "Розмір",
     "Modified" : "Змінено",
