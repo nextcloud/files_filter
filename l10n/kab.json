@@ -1,6 +1,8 @@
 { "translations": {
     "Videos" : "Tividyutin",
     "Name" : "Nom",
+    "Size" : "Teɣzi",
+    "Modified" : "Yettwabeddel",
     "Delete" : "Kkes"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
