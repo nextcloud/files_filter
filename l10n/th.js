@@ -3,6 +3,7 @@ OC.L10N.register(
     {
     "Images" : "รูปภาพ",
     "Videos" : "วิดีโอ",
+    "Filter" : "ตัวกรอง",
     "No entries found in this folder" : "ไม่พบรายการในโฟลเดอร์นี้",
     "Name" : "ชื่อ",
     "Size" : "ขนาด",
