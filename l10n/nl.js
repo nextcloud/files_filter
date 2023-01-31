@@ -2,7 +2,7 @@ OC.L10N.register(
     "files_filter",
     {
     "Images" : "Afbeeldingen",
-    "Videos" : "Videos",
+    "Videos" : "Video's",
     "No images found" : "Geen plaatje gevonden",
     "Any uploaded image will show up here" : "Ieder toegevoegd plaatje wordt hier getoond",
     "Filter" : "Filter",
