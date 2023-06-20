@@ -7,6 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "Üles laetud pildid on siin näha",
     "Filter" : "Filter",
     "Files filter" : "Failide filter",
+    "Adds type filtered file views to the sidebar" : "Lisab tüübi järgi filtreeritud faili vaated külgribale.",
     "No entries found in this folder" : "Selles kaustas ei leitud kirjeid",
     "Name" : "Nimi",
     "Size" : "Suurus",
