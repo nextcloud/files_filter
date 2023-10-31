@@ -14,6 +14,6 @@ OC.L10N.register(
     "Modified" : "Modifié",
     "Delete" : "Supprimer",
     "No videos found" : "Aucune vidéo trouvée",
-    "Any uploaded video will show up here" : "Les vidéos téléchargées se retrouveront ici"
+    "Any uploaded video will show up here" : "Les vidéos téléchargées apparaîtront ici"
 },
 "nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;");
