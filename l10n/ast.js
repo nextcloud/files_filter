@@ -3,6 +3,7 @@ OC.L10N.register(
     {
     "Images" : "Imáxenes",
     "Videos" : "Vídeos",
+    "Filter" : "Peñerar",
     "No entries found in this folder" : "Nun s'atopó nenguna entrada nesta carpeta",
     "Name" : "Nome",
     "Size" : "Tamañu",
