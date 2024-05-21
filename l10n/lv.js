@@ -3,6 +3,7 @@ OC.L10N.register(
     {
     "Images" : "Attēli",
     "Videos" : "Video",
+    "No images found" : "Attēli netika atrasti",
     "No entries found in this folder" : "Šajā mapē nekas nav atrasts",
     "Name" : "Vārds",
     "Size" : "Izmērs",
