@@ -7,7 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "Les images téléversées se retrouveront ici",
     "Filter" : "Filtre",
     "Files filter" : "Filtre des fichiers",
-    "Adds type filtered file views to the sidebar" : "Ajoute des vues de fichiers filtrées de type au panneau latéral",
+    "Adds type filtered file views to the sidebar" : "Ajoute des vues de fichiers filtrées par type au panneau latéral",
     "No entries found in this folder" : "Aucune entrée trouvée dans ce dossier",
     "Name" : "Nom",
     "Size" : "Taille",
