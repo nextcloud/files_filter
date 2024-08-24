@@ -4,7 +4,7 @@ OC.L10N.register(
     "Images" : "Images",
     "Videos" : "Vidéos",
     "No images found" : "Aucune image trouvée",
-    "Any uploaded image will show up here" : "Les images téléversées se retrouveront ici",
+    "Any uploaded image will show up here" : "Les images téléversées apparaîtront ici",
     "Filter" : "Filtre",
     "Files filter" : "Filtre des fichiers",
     "Adds type filtered file views to the sidebar" : "Ajoute des vues de fichiers filtrées par type au panneau latéral",
