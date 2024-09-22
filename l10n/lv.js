@@ -5,7 +5,7 @@ OC.L10N.register(
     "Videos" : "Video",
     "No images found" : "Attēli netika atrasti",
     "No entries found in this folder" : "Šajā mapē nekas nav atrasts",
-    "Name" : "Vārds",
+    "Name" : "Nosaukums",
     "Size" : "Izmērs",
     "Modified" : "Mainīts",
     "Delete" : "Dzēst"
