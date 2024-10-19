@@ -3,17 +3,17 @@ OC.L10N.register(
     {
     "Images" : "Bilder",
     "Videos" : "Videor",
-    "No images found" : "Inga bilder funna",
+    "No images found" : "Inga bilder hittades",
     "Any uploaded image will show up here" : "Uppladdade bilder dyker upp här",
     "Filter" : "Filter",
     "Files filter" : "Filfilter",
     "Adds type filtered file views to the sidebar" : "Lägger till typen av filtrerade filvyer i sidofältet",
-    "No entries found in this folder" : "Ingenting hittades i denna mapp",
+    "No entries found in this folder" : "Inga poster hittades i denna mapp",
     "Name" : "Namn",
     "Size" : "Storlek",
     "Modified" : "Ändrad",
     "Delete" : "Ta bort",
-    "No videos found" : "Inga videos funna",
+    "No videos found" : "Inga videor hittades",
     "Any uploaded video will show up here" : "Uppladdade videor dyker upp här"
 },
 "nplurals=2; plural=(n != 1);");
