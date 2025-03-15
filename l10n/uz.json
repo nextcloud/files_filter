@@ -1,10 +1,17 @@
 { "translations": {
-    "Images" : "Images",
-    "Videos" : "Videos",
+    "Images" : "Rasmlar",
+    "Videos" : "Videolar",
+    "No images found" : "Rasm topilmadi",
+    "Any uploaded image will show up here" : "Barcha yuklangan rasm bu erda ko'rinadi",
+    "Filter" : "Filtr",
+    "Files filter" : "Fayllar filteri",
+    "Adds type filtered file views to the sidebar" : "Yon panelga filtrlangan fayl ko'rinishini qo'shadi",
     "No entries found in this folder" : "Ushbu papkada hech qanday yozuv topilmadi",
-    "Name" : "Name",
-    "Size" : "Size",
-    "Modified" : "Modified",
-    "Delete" : "Delete"
+    "Name" : "Nomi",
+    "Size" : "O`lchami",
+    "Modified" : "Modifikatsiyalangan",
+    "Delete" : "O`chirish",
+    "No videos found" : "Videolar topilmadi",
+    "Any uploaded video will show up here" : "barcha yuklangan video bu erda ko'rsatiladi"
 },"pluralForm" :"nplurals=1; plural=0;"
 }
