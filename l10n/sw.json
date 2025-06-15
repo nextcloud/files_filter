@@ -1,5 +1,7 @@
 { "translations": {
+    "Videos" : "Picha mjongeo",
     "Name" : "Jina",
+    "Size" : "Ukubwa",
     "Modified" : "Boresha",
     "Delete" : "Futa"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
