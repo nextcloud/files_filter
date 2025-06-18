@@ -158,7 +158,7 @@ $(document).ready(function () {
 							var root = '/files/' + OC.getCurrentUser().uid;
 							var results = searchClient._parseResult(result.body);
 							results = results.map(function(result) {
-								result.path = result.path.substr(root.length);
+								result.path = result.path.slice(root.length);
 								return result;
 							});
 							deferred.resolve(result.status, results);
