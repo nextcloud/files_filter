@@ -1,11 +1,19 @@
 OC.L10N.register(
     "files_filter",
     {
+    "Images" : "Picha",
     "Videos" : "Picha mjongeo",
+    "No images found" : "Hakuna picha iliyopatikana",
+    "Any uploaded image will show up here" : "Picha yoyote iliyopakiwa itajionyesha hapa",
+    "Filter" : "Chujio",
+    "Files filter" : "Chujio la faili",
+    "Adds type filtered file views to the sidebar" : "Huongeza aina ya mionekano ya faili iliyochujwa kwenye upau wa kando",
     "No entries found in this folder" : "Hakuna maingizo yaliyopatikana katika kasha hili",
     "Name" : "Jina",
     "Size" : "Ukubwa",
     "Modified" : "Boresha",
-    "Delete" : "Futa"
+    "Delete" : "Futa",
+    "No videos found" : "Hakuna video iliyopatikana",
+    "Any uploaded video will show up here" : "Video yoyote iliyopakiwa itaonekana hapa"
 },
 "nplurals=2; plural=(n != 1);");

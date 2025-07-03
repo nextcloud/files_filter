@@ -7,7 +7,7 @@ OC.L10N.register(
     "Any uploaded image will show up here" : "Yüklenen görseller burada görüntülenir",
     "Filter" : "Süzgeç",
     "Files filter" : "Dosya süzgeci",
-    "Adds type filtered file views to the sidebar" : "Yan çubuğa türe göre süzülmüş dosya görünümlerini ekler",
+    "Adds type filtered file views to the sidebar" : "Kenar çubuğuna türe göre süzülmüş dosya görünümlerini ekler",
     "No entries found in this folder" : "Bu klasörde herhangi bir kayıt yok",
     "Name" : "Ad",
     "Size" : "Boyut",
