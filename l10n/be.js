@@ -3,6 +3,7 @@ OC.L10N.register(
     {
     "Images" : "Відарысы",
     "Videos" : "Відэа",
+    "No entries found in this folder" : "У гэтай папцы не знойдзена запісаў",
     "Name" : "Назва",
     "Size" : "Памер",
     "Modified" : "Зменены",
